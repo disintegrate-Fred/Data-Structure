@@ -68,6 +68,7 @@ public class Merge {
 		String[] a = input.next();
 		sort(a);
 		show(a);
+		System.out.println("Hello");
 		input.close();
 		System.exit(0);
 	}
